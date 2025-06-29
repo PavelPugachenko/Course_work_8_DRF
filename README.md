@@ -7,7 +7,7 @@ you to make good habits a part of your life.
 
 1. Clone the repository:
 ```commandline
-git clone https://github.com/obladishka/habits_api.git
+git clone https://github.com/PavelPugachenko/Course_work_8_DRF.git
 ```
 2. Install project dependencies:
 ```commandline
